@@ -4,7 +4,7 @@ import java.util.Scanner;
 public class TakingInput {
     public static void main(String[] args) {
         // System.out.println("Addition of two nummbers");
-        System.out.println("taking input from user ,:");
+        System.out.println("taking input from user ,,:");
         Scanner sc =new Scanner(System.in);
         // System.out.println("Enter number 1 :");
         // int a = sc.nextInt();
